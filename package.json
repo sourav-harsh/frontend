@@ -17,6 +17,7 @@
     "eslint-config-next": "13.0.2",
     "graceful-fs": "^4.2.10",
     "next": "13.0.2",
+    "node": ">=14.19.1 <=18.x.x",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "stream-browserify": "^3.0.0",
